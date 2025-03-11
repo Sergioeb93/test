@@ -5,7 +5,7 @@ por Sergio Espartero
 2. [Historia](#wavy_dash-2-historia)
 3. [Campo de aplicación](#wavy_dash-3-campo-de-aplicaci%C3%B3n)
 4. [Clasificación](#wavy_dash-4-clasificaci%C3%B3n)
-5. [Otras curiosidades](#wavy_dash-5-otras-curiosidades))
+5. [Otras curiosidades](#wavy_dash-5-otras-curiosidades)
 6. [IDE'S](#wavy_dash-6-ides)
 7. [Frameworks](#wavy_dash-7-frameworks)
 8. [Webgrafía](#wavy_dash-8-webgraf%C3%ADa)
@@ -64,7 +64,7 @@ Python dispone de una amplia multitud de Frameworks, siendo entre ellos, los má
 >Tornado
 >Sanic
 
-## :wavy_dash: 7. **WEBGRAFÍA**
+## :wavy_dash: 8. **WEBGRAFÍA**
 [1]https://survey.stackoverflow.co/2024/technology
 [2]https://www.python.org/psf/mission/
 https://www.python.org/about/apps/
