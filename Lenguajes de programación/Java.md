@@ -7,7 +7,7 @@
 5. [Otras curiosidades](#wavy_dash-5-otras-curiosidades))
 6. [IDE'S](#wavy_dash-6-ides)
 7. [Frameworks](#wavy_dash-7-frameworks)
-8. [Webgrafía](#wavy_dash-8-webgrafia)
+8. [Webgrafía](#wavy_dash-8-webgraf%C3%ADa)
 
  
 ## :wavy_dash: 1. INTRODUCCIÓN
@@ -34,24 +34,26 @@ Asimismo, posee un tipado estático, y fuerte.
 
 ## :wavy_dash: 6. **IDE’s**
 
->Eclipse.
->Netbeans
->IntelliJ IDEA
->BlueJ
+- `Eclipse`
+- `Netbeans`
+- `IntelliJ IDEA`
+- `BlueJ`
 
 ![image](https://github.com/user-attachments/assets/03ce1deb-8052-403e-8df5-4a4d3ff3404f)
 
 ## :wavy_dash: 7. **FRAMEWORKS**
 
 Existen una amplia variedad de Frameworks disponibles para trabajar con **Java**, siendo los más populares, según  [*]
->Spring Boot
->Hibernate
->Struts
->Java Server Faces
->Play Framework
+
+- `Spring Boot`
+- `Hibernate`
+- `Struts`
+- `Java Server Faces`
+- `Play Framework`
 
 ## :wavy_dash: 8. **WEBGRAFÍA**
 
+[1] https://www.tiobe.com/tiobe-index/
 https://docs.oracle.com/javase/specs/jls/se23/jls23.pdf
 https://www.youtube.com/watch?v=NA-sB3zvluE&t=1 #El futuro de Java
 https://www.java.com/es/download/help/whatis_java.html
