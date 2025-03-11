@@ -1,6 +1,6 @@
 # Java
 
-1. [Introducción](##1.INTRODUCCIÓN)
+1. [Introducción](#wavy_dash-1-introducci%C3%B3n)
 2. [Historia](#example2)
 3. [Campo de aplicación](#third-example)
 4. [Clasificación](#fourth-examplehttpwwwfourthexamplecom)
