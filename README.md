@@ -1,10 +1,14 @@
 # Python
 por Sergio Espartero
 
-1. [Example](##1.INTRODUCCIÓN)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+1. [Introducción](#wavy_dash-1-introducci%C3%B3n)
+2. [Historia](#wavy_dash-2-historia)
+3. [Campo de aplicación](#wavy_dash-3-campo-de-aplicaci%C3%B3n)
+4. [Clasificación](#wavy_dash-4-clasificaci%C3%B3n)
+5. [Otras curiosidades](#wavy_dash-5-otras-curiosidades))
+6. [IDE'S](#wavy_dash-6-ides)
+7. [Frameworks](#wavy_dash-7-frameworks)
+8. [Webgrafía](#wavy_dash-8-webgraf%C3%ADa)
 
 ## :wavy_dash: 1. INTRODUCCIÓN
 
@@ -60,6 +64,7 @@ Python dispone de una amplia multitud de Frameworks, siendo entre ellos, los má
 >Tornado
 >Sanic
 
+## :wavy_dash: 7. **WEBGRAFÍA**
 [1]https://survey.stackoverflow.co/2024/technology
 [2]https://www.python.org/psf/mission/
 https://www.python.org/about/apps/
