@@ -12,14 +12,15 @@
  
 ## :wavy_dash: 1. INTRODUCCIÓN
 
-Desde su lanzamiento a mediados de los años 90, Java se ha consolidado como una herramienta fundamental en el desarrollo de software, llegando a liderar el índice TIOBE (TIOBE Programming Community index) durante gran parte las dos primeras décadas de los 2000 [^1].
+Desde su lanzamiento a mediados de los años 90, Java se ha consolidado como una herramienta fundamental en el desarrollo de software, llegando a liderar el índice TIOBE _(TIOBE Programming Community index)_ durante gran parte las dos primeras décadas de los 2000 [^1]. 
 
 ## :wavy_dash: 2. **HISTORIA**
 
-El lenguaje fue diseñado inicialmente por Guido Van Rossum en 1991, en el Stichting Mathematisch Centrum (CWI) como sucesor del lenguaje llamado ABC (?). A lo largo de los años la empresa encargado del desarrollo del lenguaje ha ido cambiando (BeOpen, Digital Creations, Zope Corporation) hasta que en el año 2001 se fundó la Python Software Foundation (PSF), una organización sin ánimo de lucro que ostenta la propiedad intelectual de Python [2]. Actualmente, la última versión en la que se encuentra el lenguaje es la 3.13.2 lanzada el 4 de febrero de 2025. En el horizonte de Python se mantiene una mentalidad open source, apoyada en un desarrollo continuado de su compatibilidad y funciones, con especial foco en aquellos aspectos con su rendimiento, en aras por mejorar su rapidez y eficiencia. El auge de la IA, la ciencia de datos y la automatización de procesos continúa impulsando la popularidad de Python más allá de los límites alcanzados en la actualidad.
 
 ## :wavy_dash: 3. **CAMPO DE APLICACIÓN**
+- `Aplicaciones móviles`
 - `Desarrollo Web`
+- `Software de escritorio`
 - `Programación de videojuegos`
 - `
 
@@ -54,7 +55,8 @@ Existen una amplia variedad de Frameworks disponibles para trabajar con **Java**
 
 ## :wavy_dash: 8. **WEBGRAFÍA**
 
-[^1]: https://www.tiobe.com/tiobe-index/
+[^1]: https://www.tiobe.com/tiobe-index/  
+https://www.w3schools.com/java/java_intro.asp
 https://docs.oracle.com/javase/specs/jls/se23/jls23.pdf
 https://www.youtube.com/watch?v=NA-sB3zvluE&t=1 #El futuro de Java
 https://www.java.com/es/download/help/whatis_java.html
