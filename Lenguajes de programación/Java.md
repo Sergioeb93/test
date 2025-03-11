@@ -1,16 +1,19 @@
 # Java
 
-1. [Example](##1.INTRODUCCIÓN)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+1. [Introducción](##1.INTRODUCCIÓN)
+2. [Historia](#example2)
+3. [Campo de aplicación](#third-example)
+4. [Clasificación](#fourth-examplehttpwwwfourthexamplecom)
+5. [Otras curiosidades](#fourth-examplehttpwwwfourthexamplecom)
+6. [Otras curiosidades](#fourth-examplehttpwwwfourthexamplecom)
+7. [IDE'S]()
+8. [Frameworks]()
+9. [Webgrafía]()
 
+ 
 ## :wavy_dash: 1. INTRODUCCIÓN
 
-Java
-
-Lenguaje de programación creado por Sun Microsystems en 1995.desarrollado originalmente por James Gosling,
-es uno de los lenguajes de programación de alto nivel más utilizados en todo el mundo. Según la última encuesta de Stack Overflow, el 51% de los participantes trabajan o habrían trabajado con este lenguaje durante el último año, clasificándose así como la [tercera tecnología más utilizadas en el año 2024](https://survey.stackoverflow.co/2024/technology) [1], siendo superado únicamente por JavaScript y el conjunto HTML/CSS.
+Desde su lanzamiento a mediados de los años 90, Java se ha consolidado como una herramienta fundamental en el desarrollo de software, llegando a liderar el índice TIOBE (TIOBE Programming Community index) durante gran parte las dos primeras décadas de los 2000 [1].
 
 ## :wavy_dash: 2. **HISTORIA**
 
