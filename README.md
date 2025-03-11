@@ -1,5 +1,5 @@
 # Python
-por Sergio Espartero
+<sup> por Sergio Espartero </sup>
 
 1. [Introducción](#wavy_dash-1-introducci%C3%B3n)
 2. [Historia](#wavy_dash-2-historia)
