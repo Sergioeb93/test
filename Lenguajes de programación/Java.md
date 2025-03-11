@@ -29,7 +29,7 @@ Asimismo, posee un tipado estático, y fuerte.
 
 
 ## :wavy_dash: 5. **OTRAS CURIOSIDADES**
-- El videojuego más vendido de todos los tiempos, **_Minecraft_** de _Mojang Studios_, está programado en **Java**-
+- El videojuego más vendido de todos los tiempos, **Minecraft**, de _Mojang Studios_, está programado en **Java**.
 - Recibe su nombre del amor que profesaba _James Gosling_, su creador, por el café, en honor a la isla indonesia en la que se considera que crecen los mejores granos de café.
 - 
 
