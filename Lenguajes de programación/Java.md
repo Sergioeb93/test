@@ -12,7 +12,7 @@
  
 ## :wavy_dash: 1. INTRODUCCIÓN
 
-Desde su lanzamiento a mediados de los años 90, Java se ha consolidado como una herramienta fundamental en el desarrollo de software, llegando a liderar el índice TIOBE (TIOBE Programming Community index) durante gran parte las dos primeras décadas de los 2000 [1].
+Desde su lanzamiento a mediados de los años 90, Java se ha consolidado como una herramienta fundamental en el desarrollo de software, llegando a liderar el índice TIOBE (TIOBE Programming Community index) durante gran parte las dos primeras décadas de los 2000 [^1].
 
 ## :wavy_dash: 2. **HISTORIA**
 
@@ -54,7 +54,7 @@ Existen una amplia variedad de Frameworks disponibles para trabajar con **Java**
 
 ## :wavy_dash: 8. **WEBGRAFÍA**
 
-[1] https://www.tiobe.com/tiobe-index/
+[^1]: https://www.tiobe.com/tiobe-index/
 https://docs.oracle.com/javase/specs/jls/se23/jls23.pdf
 https://www.youtube.com/watch?v=NA-sB3zvluE&t=1 #El futuro de Java
 https://www.java.com/es/download/help/whatis_java.html
