@@ -70,15 +70,15 @@ Existen una amplia variedad de Frameworks disponibles para trabajar con **Java**
 [^1]: https://www.tiobe.com/tiobe-index/     
 https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-java-programming-language     
 https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html
-https://www.java.com/es/download/help/whatis_java.html
-https://www.java.com/releases/  
-https://www.youtube.com/watch?v=NA-sB3zvluE&t=1  #El futuro de Java  
-https://www.linkedin.com/pulse/future-java-full-stack-development-whats-coming-2025-croma-campus-qq1vc/
-https://docs.oracle.com/javase/specs/jls/se23/jls23.pdf    
-https://www.w3schools.com/java/java_intro.asp  
-https://microsoft.fandom.com/wiki/Visual_J%2B%2B  
-https://radio-weblogs.com/0100490/2003/01/28.html?ref=cafeba.be      
-https://survey.stackoverflow.co/2024/technology#1-web-frameworks-and-technologies
+https://www.java.com/es/download/help/whatis_java.html  
+https://www.java.com/releases/    
+https://www.youtube.com/watch?v=NA-sB3zvluE&t=1  
+https://www.linkedin.com/pulse/future-java-full-stack-development-whats-coming-2025-croma-campus-qq1vc/  
+https://docs.oracle.com/javase/specs/jls/se23/jls23.pdf      
+https://www.w3schools.com/java/java_intro.asp     
+https://microsoft.fandom.com/wiki/Visual_J%2B%2B    
+https://radio-weblogs.com/0100490/2003/01/28.html?ref=cafeba.be        
+https://survey.stackoverflow.co/2024/technology#1-web-frameworks-and-technologies  
 https://wiki.openjdk.org/display/loom/Main
 
 
