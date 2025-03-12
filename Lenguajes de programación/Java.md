@@ -16,7 +16,16 @@ Desde su lanzamiento a mediados de los años 90, Java se ha consolidado como una
 
 ## :wavy_dash: 2. **HISTORIA**
 
+En el verano de 1991, un equipo de ingenieros de la compañía _Sun Microsystems_ liderados por _James Gosling_, comenzarían a trabajar en _The Green Project_, un programa cuyo objetivo fundamental perseguía el desarrollo de un lenguaje de programación único que pudiera ser utilizado por cualquier sistema digital o dispositivo de electrónica de consumo. Inicialmente denominado **Oak**, el lenguaje fue rebautizado posteriormente como **Green**, si bien, tras varias reconsideraciones, terminaría por identificarse como **Java**. Bajo la promesa de poder ejecutar el mismo código en cualquier dispositivo _(**WORA**, Write Once, Run Anywhere)_, en 1996 la empresa publicaría la primera _release_ del lenguaje, **Java 1.0**. Apenas un par de meses después, la primera versión de **Java** ya se habría utilizado para crear cientos de pequeñas aplicaciones y _applets_, pudiendo vislumbrarse la popularidad que le depararía en un futuro. 
+
+Con la llegada de **Java 2** _(originalmente denominada como J2SE 1.2)_, se incorporaron diferentes configuraciones 
+
+Sun Microsystems released the first public implementation as Java 1.0 in 1996.[25] It promised write once, run anywhere (WORA) functionality, providing no-cost run-times on popular platforms. Fairly secure and featuring configurable security, it allowed network- and file-access restrictions. Major web browsers soon incorporated the ability to run Java applets within web pages, and Java quickly became popular. The Java 1.0 compiler was re-written in Java by Arthur van Hoff to comply strictly with the Java 1.0 language specification.[26] With the advent of Java 2 (released initially as J2SE 1.2 in December 1998 – 1999), new versions had multiple configurations built for different types of platforms. J2EE included technologies and APIs for enterprise applications typically run in server environments, while J2ME featured APIs optimized for mobile applications. The desktop version was renamed J2SE. In 2006, for marketing purposes, Sun renamed new J2 versions as Java EE, Java ME, and Java SE, respectively. 
+
 su orientación _Open Source_ 
+
+[1996] Java 1.0 public release
+In January 1996, JavaSoft operating company of Sun Microsystems announced that the Java™ 1.0 programming environment is available for download at http://java.sun.com. Since March 1995, it has been used already to create hundreds of "applets" or small applications, written on alfa version. JavaSoft received a lot of developer feedback and delivered that software developers have told them they need.
 ## :wavy_dash: 3. **CAMPO DE APLICACIÓN**
 - `Aplicaciones móviles`
 - `Desarrollo Web`
@@ -57,13 +66,24 @@ Existen una amplia variedad de Frameworks disponibles para trabajar con **Java**
 
 ## :wavy_dash: 8. **WEBGRAFÍA**
 
-[^1]: https://www.tiobe.com/tiobe-index/  
-https://www.w3schools.com/java/java_intro.asp
-https://radio-weblogs.com/0100490/2003/01/28.html?ref=cafeba.be
-https://docs.oracle.com/javase/specs/jls/se23/jls23.pdf
-https://microsoft.fandom.com/wiki/Visual_J%2B%2B
-https://www.youtube.com/watch?v=NA-sB3zvluE&t=1 #El futuro de Java
+[^1]: https://www.tiobe.com/tiobe-index/     
+https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-java-programming-language     
 https://www.java.com/es/download/help/whatis_java.html
-https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-java-programming-language
+https://www.java.com/releases/  
+https://www.youtube.com/watch?v=NA-sB3zvluE&t=1  #El futuro de Java
+https://docs.oracle.com/javase/specs/jls/se23/jls23.pdf    
+https://www.w3schools.com/java/java_intro.asp  
+https://microsoft.fandom.com/wiki/Visual_J%2B%2B  
+https://radio-weblogs.com/0100490/2003/01/28.html?ref=cafeba.be      
 https://survey.stackoverflow.co/2024/technology#1-web-frameworks-and-technologies
-https://medium.com/@aysha.faisal10/10-fun-facts-about-java-unraveling-the-languages-secrets-6cf3589bc007#:~:text=James%20Gosling%2C%20the%20creator%20of,best%20coffee%20beans%20are%20grown.
+
+
+
+
+
+
+
+
+
+
+
