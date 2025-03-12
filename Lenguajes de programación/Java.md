@@ -4,7 +4,7 @@
 2. [Historia](#wavy_dash-2-historia)
 3. [Campo de aplicación](#wavy_dash-3-campo-de-aplicaci%C3%B3n)
 4. [Clasificación](#wavy_dash-4-clasificaci%C3%B3n)
-5. [Otras curiosidades](#wavy_dash-5-otras-curiosidades))
+5. [Otras curiosidades](#wavy_dash-5-otras-curiosidades)
 6. [IDE'S](#wavy_dash-6-ides)
 7. [Frameworks](#wavy_dash-7-frameworks)
 8. [Webgrafía](#wavy_dash-8-webgraf%C3%ADa)
@@ -12,11 +12,11 @@
  
 ## :wavy_dash: 1. INTRODUCCIÓN
 
-Desde su lanzamiento a mediados de los años 90, Java se ha consolidado como una herramienta fundamental en el desarrollo de software, llegando a liderar el índice TIOBE _(TIOBE Programming Community index)_ durante gran parte las dos primeras décadas de los 2000 [^1]. 
+Desde su lanzamiento a mediados de los años 90, Java se ha consolidado como una herramienta fundamental en el desarrollo de software, llegando a liderar el índice TIOBE _(TIOBE Programming Community index)_ durante gran parte las dos primeras décadas de los 2000 [^1]. Su simplicidad y robustez, sumadas a su enorme portabilidad, han contribuído indudablemente a la popularidad del lenguaje, utilizado hoy en día para crear todo tipo de aplicaciones imaginables.
 
 ## :wavy_dash: 2. **HISTORIA**
 
-
+su orientación _Open Source_ 
 ## :wavy_dash: 3. **CAMPO DE APLICACIÓN**
 - `Aplicaciones móviles`
 - `Desarrollo Web`
@@ -30,9 +30,11 @@ Asimismo, posee un tipado estático, y fuerte.
 
 
 ## :wavy_dash: 5. **OTRAS CURIOSIDADES**
-- El videojuego más vendido de todos los tiempos, **Minecraft**, de _Mojang Studios_, está programado en **Java**.
+- El videojuego más vendido de todos los tiempos, **Minecraft**, de _Mojang Studios_, está enteramente programado en **Java**.
 - Recibe su nombre del amor que profesaba _James Gosling_, su creador, por el café, en honor a la isla indonesia en la que se considera que crecen los mejores granos de café.
-- 
+- El _backend_ de **Spotify**, **eBay** y **Netflix** se apoya fundamentalemnte en **Java**.
+- Los primeros 4 _bytes_ que permiten identificar un fichero `.class` válido almacenan el _magic number_ `0xCAFEBABE`.
+- En los años 90, **Microsoft** lanzó su propia implementación de **Java**, **Microsoft Visual J++**, destinada a integrarse específicamente con el _Sistema Operativo_ de la compañía. Las modificaciones introducidas, incompatibles con el estándar multiplataforma definido en los términos de licencia establecidos por _Sun Microsystems_, costarían una demanda y el posterior cese en el desarrollo de la tecnología.
 
 ## :wavy_dash: 6. **IDE’s**
 
@@ -57,7 +59,9 @@ Existen una amplia variedad de Frameworks disponibles para trabajar con **Java**
 
 [^1]: https://www.tiobe.com/tiobe-index/  
 https://www.w3schools.com/java/java_intro.asp
+https://radio-weblogs.com/0100490/2003/01/28.html?ref=cafeba.be
 https://docs.oracle.com/javase/specs/jls/se23/jls23.pdf
+https://microsoft.fandom.com/wiki/Visual_J%2B%2B
 https://www.youtube.com/watch?v=NA-sB3zvluE&t=1 #El futuro de Java
 https://www.java.com/es/download/help/whatis_java.html
 https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-java-programming-language
