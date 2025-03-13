@@ -22,15 +22,16 @@ El lenguaje fue diseñado inicialmente por _Guido Van Rossum_ en 1989, en el _St
 
 Con el transcurso del tiempo, la continuidad del proyecto transitaría múltiples empresas _(BeOpen, Digital Creations, Zope Corporation...)_ bajo la responsabilidad de su creador original _(apodado cómicamente como el "dictador benevolente de por vida", BDFL, Benevolent Dictator For Life)_, hasta la fundación, en 2001, de la _Python Software Foundation (PSF)_, una organización sin ánimo de lucro que ostenta la propiedad intelectual del lenguaje [^6]. Tras la renuncia de _Van Rossum_ en 2018 y la posterior fundación del _Consejo de Dirección de Python_ _(Python Steering Council)_, ambas entidades contribuyen, en un esfuerzo comunitario con la Comunidad de Core Developers _(encargados de revisar y aprobar las **PEP's, Python Enhancement Proposals**)_, en la incesante evolución y crecimiento de **Python**. 
 
-En la actualidad, la versión más reciente en la que se encuentra disponible el lenguaje es la `3.13.2`, lanzada el 4 de febrero de 2025. 
-
-> corregir futuro: En el horizonte de Python se mantiene una mentalidad open source, apoyada en un desarrollo continuado de su compatibilidad y funciones, con especial foco en aquellos aspectos con su rendimiento, en aras por mejorar su rapidez y eficiencia. El auge de la IA, la ciencia de datos y la automatización de procesos continúa impulsando la popularidad de Python más allá de los límites alcanzados en la actualidad.
+En la actualidad, la versión más reciente en la que se encuentra disponible el lenguaje es la `3.13.2`, lanzada el 4 de febrero de 2025. Bajo el estandarte de la filosofía _Open Source_, **Python** parece dirigirse hacia un futuro todavía más prometedor, con diversas iniciativas encaminadas a mejorar su rendimiento _(CPython [^8], Compiladores Just-In-Time [^9]...)_, expandir su uso en el desarrollo web _(PyScript [^10]...)_ y la computación en la nube _(AWS Lambda, Google Cloud Functions...), así como mantener su reinado en el sector de la _IA_ y el _Machine Learning_.
 
 ## :wavy_dash: 3. **CAMPO DE APLICACIÓN**
-- `Desarrollo web`. Utilizado ampliamente para el backend en el contexto del desarrollo de páginas web, apoyado en frameworks como Django, Pyramid o Flask. Ejemplos: Spotify, Pinterest, Dropbox y Reddit.
-- `Ámbito científico`. El ecosistema de Python ofrece muchísimas herramientas y librerías de gran utilidad para la computación científica, siendo la principal competencia de R en este área. Por ejemplo: Scipy, NumPy, Pandas…
+- `Desarrollo web`. Utilizado ampliamente para el _backend_ en el contexto del desarrollo de aplicaciones web, apoyado en las características de los _frameworks_ Django, Pyramid o Flask. Aplicaciones tan conocidas como Spotify, Pinterest, Dropbox o Reddit han desarrollado su _backend_ con **Python**.
+- `Ámbito científico`. El ecosistema de **Python** ofrece muchísimas herramientas y librerías de gran utilidad para la computación científica, erigiéndose como la principal competencia de **R** en esta área. Algunas de sus librerías más populares son **Scipy**, **Numpy** o **Pandas**. 
 - `IA y Machine Learning`. Scikit-Learn, Matplotlib,y Scipy
-- `Educación`.
+- `Educación`. La simplicidad de su sintaxis 
+- `Automatización y Scripting`. 
+- `IoT`. 
+- `Desarrollo de videojuegos`. En menor medida, se _(Civilization IV, Battlefield 2, Eve Online...)_
 - `Desarrollo de software`. Principalmente, permite cerrar aplicaciones más robustas, facilitando la securización de las aplicaciones para detectar ciberataques que intentan exploitear vulnerabilidades habituales.
 - `Aplicaciones empresariales`. En el sector empresarial, muchas organizaciones y sistemas ERP han optado por recurrir a Python como su lenguaje base, en gran parte motivados por sus características Open Source. Ejemplos. (Odoo, Tryton..)
 
@@ -79,12 +80,17 @@ Python dispone de una amplia multitud de Frameworks, siendo entre ellos, los má
 [^4]: https://homepages.cwi.nl/~steven/abc/language.html
 [^5]: https://www.larazon.es/emergente/usenet-desconocido-sistema-global-discusion-internet_202310196530d38b5740dc00012b064c.html
 [^6]: https://www.python.org/psf/mission/
+[^8]: https://github.com/faster-cpython/cpython
+[^9]: https://docs.pyscript.net/2025.3.1/
 
+https://wiki.python.org/moin/OrganizationsUsingPython  
 https://www.python.org/about/apps/
 https://www.geeksforgeeks.org/history-of-python/
 https://github.com/mahmoud/awesome-python-applications
 https://www.datasciencesociety.net/the-evolution-and-impact-of-python-in-modern-programming/
+https://dev.to/jottyjohn/python-the-language-of-the-future-38n0
 
+https://www.cygnus-software.com/papers/gamescriptinginpython.html
 https://medium.com/pythoneers/10-not-so-known-facts-about-python-programming-c8c4f44dbc02
 https://docs.python.org/es/3.13/using/editors.html
 https://kinsta.com/blog/python-frameworks/
