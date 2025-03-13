@@ -1,4 +1,4 @@
-# Python <sup> por Sergio Espartero </sup>
+# :wavy_dash: Python :wavy_dash: <sup> por Sergio Espartero </sup>
 
 
 1. [Introducción](#wavy_dash-1-introducci%C3%B3n)
@@ -12,11 +12,19 @@
 
 ## :wavy_dash: 1. INTRODUCCIÓN
 
-Python es uno de los lenguajes de programación de alto nivel más utilizados en todo el mundo. Según la última encuesta de Stack Overflow, el 51% de los participantes trabajan o habrían trabajado con este lenguaje durante el último año, clasificándose así como la [tercera tecnología más utilizadas en el año 2024](https://survey.stackoverflow.co/2024/technology) [1], siendo superado únicamente por JavaScript y el conjunto HTML/CSS.
+Python es uno de los lenguajes de programación de alto nivel más utilizados en todo el mundo. Según la última encuesta de **Stack Overflow**, el 51% de los participantes trabajan o habrían trabajado extensamente con este lenguaje durante el último año, clasificándose así como la [tercera tecnología más utilizadas en el año 2024](https://survey.stackoverflow.co/2024/technology) [^1], siendo superado únicamente por **JavaScript** y el conjunto **HTML/CSS**.   
+ 
+La simplicidad de su sintaxis, su versatilidad, el extraordinario respaldo comunitario existente, sumados al auge de la ciencia de datos y la Inteligencia Artificial, para las que **Python** goza de una extensa colección de librerías y frameworks, han catapultado su popularización durante la última década hasta ser galardonado como ["El lenguaje de programación del año"](https://www.tiobe.com/tiobe-index/) [^2] _("Programming Language of the Year", TIOBE index)_ hasta en 4 ocasiones desde 2018.
 
 ## :wavy_dash: 2. **HISTORIA**
 
-El lenguaje fue diseñado inicialmente por Guido Van Rossum en 1991, en el Stichting Mathematisch Centrum (CWI) como sucesor de la tecnología conocida como ABC (?). A lo largo de los años la empresa encargada del desarrollo de Python ha ido cambiando _(BeOpen, Digital Creations, Zope Corporation)_ hasta que en el año 2001 se fundó la _Python Software Foundation (PSF)_, una organización sin ánimo de lucro que ostenta la propiedad intelectual de Python en la actualidad [2]. La versión más reciente en la que se encuentra el lenguaje es la `3.13.2`, lanzada el 4 de febrero de 2025. En el horizonte de Python se mantiene una mentalidad open source, apoyada en un desarrollo continuado de su compatibilidad y funciones, con especial foco en aquellos aspectos con su rendimiento, en aras por mejorar su rapidez y eficiencia. El auge de la IA, la ciencia de datos y la automatización de procesos continúa impulsando la popularidad de Python más allá de los límites alcanzados en la actualidad.
+El lenguaje fue diseñado inicialmente por _Guido Van Rossum_ en 1989, en el _Stichting Mathematisch Centrum (CWI)_ como sucesor de la tecnología **ABC** [^3], un lenguaje de programación imperativo originalmente destinado a reemplazar **BASIC** [^4]. Un par de años más tarde, en febrero de 1991, Python sería presentado públicamente por primera vez en el entorno de **USENET** [^5], un sistema de comunicación en línea precursor a los actuales foros de Internet, donde desarrolladores de todo el mundo interesados en la propuesta planteada por _Van Rossum_ plantearían sus dudas y sugerencias de mejora, contribuyendo innegablemente al desarrollo y difusión del joven lenguaje. 
+
+Con el transcurso del tiempo, la continuidad del proyecto transitaría múltiples empresas _(BeOpen, Digital Creations, Zope Corporation...)_ bajo la responsabilidad de su creador original _(apodado cómicamente como el "dictador benevolente de por vida", BDFL, Benevolent Dictator For Life)_, hasta la fundación, en 2001, de la _Python Software Foundation (PSF)_, una organización sin ánimo de lucro que ostenta la propiedad intelectual del lenguaje [^6]. Tras la renuncia de _Van Rossum_ en 2018 y la posterior fundación del _Consejo de Dirección de Python_ _(Python Steering Council)_, ambas entidades contribuyen, en un esfuerzo comunitario con la Comunidad de Core Developers _(encargados de revisar y aprobar las **PEP's, Python Enhancement Proposals**)_, en la incesante evolución y crecimiento de **Python**. 
+
+En la actualidad, la versión más reciente en la que se encuentra disponible el lenguaje es la `3.13.2`, lanzada el 4 de febrero de 2025. 
+
+> corregir futuro: En el horizonte de Python se mantiene una mentalidad open source, apoyada en un desarrollo continuado de su compatibilidad y funciones, con especial foco en aquellos aspectos con su rendimiento, en aras por mejorar su rapidez y eficiencia. El auge de la IA, la ciencia de datos y la automatización de procesos continúa impulsando la popularidad de Python más allá de los límites alcanzados en la actualidad.
 
 ## :wavy_dash: 3. **CAMPO DE APLICACIÓN**
 - `Desarrollo web`. Utilizado ampliamente para el backend en el contexto del desarrollo de páginas web, apoyado en frameworks como Django, Pyramid o Flask. Ejemplos: Spotify, Pinterest, Dropbox y Reddit.
@@ -44,13 +52,13 @@ Añadir 2 o 3 más
 
 ## :wavy_dash: 6. **IDE’s**
 
->IDLE. Editor por defecto que se incorpora en los paquetes de Python, multiplataforma
->Pycharm. Creado por JetBrains, freemium, Windows
->Atom. Open Source, desarrollado por Github
->Spyder. Open Source, uno de los más usados para el desarrollo científico, viene con la distribución anaconda, gratuito
->Jupyter. Muy usado en el campo de Data Science, gratuito
->NetBeans (con PyDev)
->Visual Studio Code (open source) desarrollado por Microsoft, dispone de plugins para poder trabajar con diversos lenguajes, entre ellos Python. 
+- IDLE. Editor por defecto que se incorpora en los paquetes de Python, multiplataforma
+- Pycharm. Creado por JetBrains, freemium, Windows
+- `Atom. Open Source, desarrollado por Github
+- `Spyder. Open Source, uno de los más usados para el desarrollo científico, viene con la distribución anaconda, gratuito
+- `Jupyter. Muy usado en el campo de Data Science, gratuito
+- `NetBeans (con PyDev)
+- `Visual Studio Code (open source) desarrollado por Microsoft, dispone de plugins para poder trabajar con diversos lenguajes, entre ellos Python. 
 
 ++ caracteristicas destacables
 
@@ -58,15 +66,20 @@ Añadir 2 o 3 más
 ## :wavy_dash: 7. **FRAMEWORKS**
 
 Python dispone de una amplia multitud de Frameworks, siendo entre ellos, los más usados (en función del número de estrellas y forks disponibles en Github):
->Django
->Flask
->FastAPI
->Tornado
->Sanic
+- `Django`
+- `Flask`
+- `FastAPI`
+- `Tornado`
+- `Sanic`
 
 ## :wavy_dash: 8. **WEBGRAFÍA**
-[1]https://survey.stackoverflow.co/2024/technology
-[2]https://www.python.org/psf/mission/
+[^1]: https://survey.stackoverflow.co/2024/technology
+[^2]: https://www.tiobe.com/tiobe-index/
+[^3]: https://docs.python.org/3/faq/general.html#why-was-python-created-in-the-first-place
+[^4]: https://homepages.cwi.nl/~steven/abc/language.html
+[^5]: https://www.larazon.es/emergente/usenet-desconocido-sistema-global-discusion-internet_202310196530d38b5740dc00012b064c.html
+[^6]: https://www.python.org/psf/mission/
+
 https://www.python.org/about/apps/
 https://www.geeksforgeeks.org/history-of-python/
 https://github.com/mahmoud/awesome-python-applications
