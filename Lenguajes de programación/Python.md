@@ -63,10 +63,10 @@ Python es un lenguaje de alto nivel, multiplataforma, de licencia _Open Source_ 
 Python dispone de una amplia multitud de Frameworks, siendo entre ellos, los más usados (en función del número de estrellas y forks disponibles en Github):
 
 - `Django`  _Open Source_. Multiplataforma. Su desarrollo cuenta con el apoyo de una fundación independiente, la _Django Softwere Foundation_, una organización sin animo de lucro [^30]. Distribuido bajo la [licencia BSD de 3 clausulas](https://github.com/django/django/blob/main/LICENSE) [^31],  _Open Source_ que otorga permisos para modificar y redistribuir **Django**. Sus principales características se diseñaron para simplificar el desarrollo web y mejorar la productividad, entre las que cabe destacar, la creación rápida de aplicaciones web, siguiendo un _Modelo-Template-Vista_ _(MTV)_ que proporciona un formato organizado y de fácil mantenimiento, así como un sistema de administración integrado, un sistema _ORM_ _(Object-Relational Mapping)_ (facilitando la interacción de las BBDD con objetos de **Python**)_, protección contra _SQL injection_ ,_Cross-Site Scripting_ (XSS), _Cross-Site Request Forgery_ (CSRF) y _clickjacking_, gestión segura de contraseñas y autenticación de usuarios, y un sistema escalable y flexible, con una arquitectura modular idónea para aplicaciones de cualquier tipo de tamaño.[^32]
-- `Flask` _Open Source_ Creado por _Pocoo_, un grupo internacional de entusiastas de *Python*, en 2004 [^33]. _[BSD-3 Clause License]_ (https://flask.palletsprojects.com/en/stable/license/) [^34]. Considerado un _microframework_, **Flask** no requiere de librerías externas para cumplir su cometido. Especialmente adecuado para el desarrollo de aplicaciones web _WSGI_ _(_Web Server Gateway Interface_)_. Fácil y rápido de empezar a usar y con capacidad de escalar a aplicaciones más complejas[^35]. 
-- `FastAPI` _Open Source_ _Framework_ desarrolado para la creación de APIs, de una manera muy rápida y eficiente. Fue desarrollado por *Sebastian Ramirez* a modo de proyecto independiente, pero a lo largo del tiempo ha crecido muy rápidamente como comunidad de código _open source_. Tiene licencia MIT. [https://fastapi.tiangolo.com/]
-- `Tornado` _Open Source_ Desarrollada por _FriendFeed_. Es un framework web asíncrono. Diseñado originalmente para manejar múltiples conexiones abiertas, ideal para sondeos largos _(long polling)_, _Websockets_ y otras aplicaciones que requieran conexion de larga duración. Se distribuye bajo la licencia de *Apache 2.0*, (licencia _open source_). [https://www.tornadoweb.org/en/stable/]
-- `Sanic` _Open Source_ Sanic es un servidor web y a la vez también es un _framework_ diseñado para ser rápido. Aprovecha la sintaxis _async/await_ introducida en *Python 3.5*, lo que le permite que el código se ejecute de forma asíncrona, evitando bloqueos y mejorando el rendimiento. Sanic está bajo la licencia MIT. [https://sanic.dev/en/guide/introduction.html#need-some-help]
+- `Flask` _Open Source_. Creado por _Pocoo_, un grupo internacional de entusiastas de *Python*, en 2004 [^33]. _[BSD-3 Clause License](https://flask.palletsprojects.com/en/stable/license/)_ [^34]. Considerado un _microframework_, **Flask** no requiere de librerías externas para cumplir su cometido. Especialmente adecuado para el desarrollo de aplicaciones web _WSGI_ _(_Web Server Gateway Interface_)_. Fácil y rápido de empezar a usar y con capacidad de escalar a aplicaciones más complejas[^35]. 
+- `FastAPI` _Open Source_. **FastApi** es un _framework_ de código abierto desarrolado para la creación de APIs de manera rápida y eficiente. Diseñado originalmente como un proyecto independiente por _Sebastian Ramírez_, a lo largo de los años ha crecido significativamente gracias a la implicación de su comunidad, gozando de una gran popularidad. Cuenta con una _licencia MIT_. [^36]
+- `Tornado` _Open Source_. Desarrollado por _FriendFeed_, **Tornado** destaca por ser un _framework web asíncrono_, de especial utilidad para el manejo de múltiples conexiones abiertas, sondeos largos _(long polling)_, _Websockets_ y otras aplicaciones que requieran de una conexión de larga duración. Se distribuye bajo la licencia _Apache 2.0_. [^37]
+- `Sanic` _Open Source_. Servidor web y _framework_ diseñado para ofrecer, sobre todo, una garantía de rapidez. Aprovecha la sintaxis _async/await_ introducida en **Python** `3.5`, posibilitando que el código se ejecute de forma asíncrona, evitando bloqueos y mejorando el rendimiento. **Sanic** se encuentra actualmente adscrito a la _licencia MIT_. [^38]
 
 ## :wavy_dash: 8. **WEBGRAFÍA**
 [^1]: https://survey.stackoverflow.co/2024/technology
@@ -104,7 +104,9 @@ Python dispone de una amplia multitud de Frameworks, siendo entre ellos, los má
 [^33]: https://es.wikipedia.org/wiki/Flask#:~:text=Flask%20fue%20creado%20por%20Armin,convertirse%20en%20una%20aplicaci%C3%B3n%20seria
 [^34]: https://flask.palletsprojects.com/en/stable/license/
 [^35]: https://flask.palletsprojects.com/en/stable/
-
+[^36]: https://fastapi.tiangolo.com/
+[^37]: https://www.tornadoweb.org/en/stable/
+[^38]: https://sanic.dev/en/guide/introduction.html#need-some-help
 
 
 
