@@ -39,14 +39,14 @@ En la actualidad, la versión más reciente en la que se encuentra disponible el
 Python es un lenguaje de alto nivel, multiplataforma, open source e interpretado. Se trata de un lenguaje ¿multiparadigma?) que posibilita la programación imperativo+a, adaptable a los modelos PROCEDURAL y POO, en función de las necesidades del contexto, así como cierto grado de programación funcional. Su tipado es dinámico, posibilitando el cambio del tipo de datos almacenado en una variable, si bien, a su vez, posee un tipado fuerte, restringiendo las operaciones que se pueden realizar entre tipos.
 
 ## :wavy_dash: 5. **OTRAS CURIOSIDADES**
-- El nombre de python está inspirando en el programa de la BBC “Monty Python´s Flying Circus”, del que Guido Van Rossum era un gran fan. []
+- El nombre del lenguaje está inspirando en el programa de la _BBC_ **“Monty Python´s Flying Circus”**, del que Guido Van Rossum se consideraba un gran fan. [^]
 
 - Fue publicado 4 años antes que Java, aunque 
 - >REVISAR: En una encuesta realizada en 2015, superó en popularidad al Francés como lenguaje de preferencia para el aprendizaje.
 
-- Incluye un easter egg que redirige al programador a una web con una animación personalizada cuando el intérprete recibe la instrucción “import antigravity”
-
-- Se considera uno de los lenguaje que influyeron en el desarrollo de JavaScript
+- Cuando el intérprete de **Python** recibe la instrucción `import antigravity`, se redirige al usuario a una página web en la que se reproduce un [pequeño fragmento de cómic](https://xkcd.com/353/) sobre el lenguaje, a modo de _easter egg_.
+- De igual, forma, puede leerse un poema escrito por _Tim Peters_, un gran contribuidor de la comunidad de **Python**, al realizar un `import this`.
+- Está considerado uno de los 9 lenguajes que influyeron en el desarrollo de **JavaScript**, junto a 
 
 >
 Añadir 2 o 3 más
@@ -89,9 +89,10 @@ https://www.geeksforgeeks.org/history-of-python/
 https://github.com/mahmoud/awesome-python-applications
 https://www.datasciencesociety.net/the-evolution-and-impact-of-python-in-modern-programming/
 https://dev.to/jottyjohn/python-the-language-of-the-future-38n0
-
+https://www.geeksforgeeks.org/unknown-facts-about-python/
 https://www.cygnus-software.com/papers/gamescriptinginpython.html
 https://medium.com/pythoneers/10-not-so-known-facts-about-python-programming-c8c4f44dbc02
 https://docs.python.org/es/3.13/using/editors.html
 https://kinsta.com/blog/python-frameworks/
+https://xkcd.com/353/
 
