@@ -62,10 +62,11 @@ Python es un lenguaje de alto nivel, multiplataforma, de licencia _Open Source_ 
 ## :wavy_dash: 7. **FRAMEWORKS**
 
 Python dispone de una amplia multitud de Frameworks, siendo entre ellos, los más usados (en función del número de estrellas y forks disponibles en Github):
-- `Django`
-- `Flask`
-- `FastAPI`
-- `Tornado`
+
+- `Django`  _Open Source_. Multiplataforma. Su desarrollo cuenta con el apoyo de una fundación independiente, la _Django Softwere Foundation_, una organización sin animo de lucro[https://www.djangoproject.com/foundation/]. Distribuido bajo la licencia BSD de 3 clausulas (https://github.com/django/django/blob/efe3ca09e029c63e25f6e19843cb0c68cc7fa816/LICENSE), licencia _open source_ que otorga permisos para modificar y redistribuir *Django*[https://github.com/django/django/blob/main/LICENSE]. Sus principales características se diseñaron para simplificar el desarrololo web y mejorar la productividad, entre las que cabe destacar, desarrollo rápido de aplicaciones web, _Modelo-Template-Vista_ (MTV) que proporciona un formato organizado y mantenible, un sistema de administación integrado, sistema ORM _(Object-Relational Mapping)_que ayuda a interactuar con las bases de datos con objetos de Python, protección como inyecciones SQL,_Cross-Site Scripting_ (XSS), _Cross-Site Request Forgery_ (CSRF) y _clickjacking_, gestión segura de contraseñas y autenticación de usuarios, y por ultimo es un sistema escalable y flexible (su arquitectura modular lo hace adecuado para aplicaciones pequeñas o proyectos grandes, permite agregar o eliminar componentes cuando sea necesario).   [https://profile.es/blog/django-caracteristicas-y-funcionalidades/]
+- `Flask` _Open Source_ Creado por Pocoo, un grupo internacional de entusiastas de *Python*, en 2004 [https://es.wikipedia.org/wiki/Flask#:~:text=Flask%20fue%20creado%20por%20Armin,convertirse%20en%20una%20aplicaci%C3%B3n%20seria.]. _BSD-3 Clause License_ [https://flask.palletsprojects.com/en/stable/license/]. Microframework el cual no requiere librerías externas para llevar a cabo sus funciones. Diseñado para aplicaciones web WSGI. Fácil y rápido de empezar a usar y con capacidad de escalar a aplicaciones más complejas[https://flask.palletsprojects.com/en/stable/]. 
+- `FastAPI` _Open Source_
+- `Tornado` _Open Source_ Desarrollada por _FriendFeed_
 - `Sanic`
 
 ## :wavy_dash: 8. **WEBGRAFÍA**
