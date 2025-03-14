@@ -54,13 +54,12 @@ Añadir 2 o 3 más
 
 ## :wavy_dash: 6. **IDE’s**
 
-- IDLE. Editor por defecto que se incorpora en los paquetes de Python, multiplataforma
-- Pycharm. Creado por JetBrains, freemium, Windows
-- `Atom. Open Source, desarrollado por Github
-- `Spyder. Open Source, uno de los más usados para el desarrollo científico, viene con la distribución anaconda, gratuito
-- `Jupyter. Muy usado en el campo de Data Science, gratuito
-- `NetBeans (con PyDev)
-- `Visual Studio Code (open source) desarrollado por Microsoft, dispone de plugins para poder trabajar con diversos lenguajes, entre ellos Python. 
+- `IDLE`[https://docs.python.org/3/library/idle.html]. _Integrated Development and Learning Environment_. _Open Source_. **Multiplataforma**. Entorno de desarrollo incorporado por defecto en la implementación estándar de **Python** desde la release `1.5.2b1`. Utilizado con frecuencia por principantes o en entornos educativos debido a su sencillez _(carece de ciertas características avanzadas, como la posibilidad de introducir breaking points en el proceso de depuración ni dispone de una terminal integrada)_ y facilidad de uso. 
+- `Pycharm`. _Freemium_. **Multiplatafomra**. Creado por _JetBrains_, se oferta como un _IDE_ especialmente preparado para el campo de la ciencia de datos y el desarrollo web. Dispone de una _IA_ integrada capaz de generar documentación y bloques de código completos en función del contexto en el que se enmarca.
+- `Spyder`[https://www.spyder-ide.org/about]. _Open Source_. **Multiplataforma**. Incluído por defecto en la distribución **Anaconda** de **Python**. Desarrollado de forma comunitaria, **Spyder** se consolida como uno de los IDE's predilectos para el desarrollo científico, facilitando la interpretación de los datos al posibilitar la visualización de las representaciones gráficas generadas directamente en el programa. 
+- `Jupyter`. Muy usado en el campo de Data Science, gratuito
+- `NetBeans`. (con PyDev)
+- `Visual Studio Code`. _Open Source_. (open source) desarrollado por Microsoft, dispone de plugins para poder trabajar con diversos lenguajes, entre ellos Python. 
 
 ++ caracteristicas destacables
 
@@ -96,4 +95,5 @@ https://medium.com/pythoneers/10-not-so-known-facts-about-python-programming-c8c
 https://docs.python.org/es/3.13/using/editors.html
 https://kinsta.com/blog/python-frameworks/
 https://xkcd.com/353/
-
+https://www.jetbrains.com/es-es/pycharm/
+https://www.anaconda.com/docs/tools/working-with-conda/ide-tutorials/spyder
