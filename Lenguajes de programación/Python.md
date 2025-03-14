@@ -36,17 +36,18 @@ En la actualidad, la versión más reciente en la que se encuentra disponible el
 - `Aplicaciones empresariales`. En el sector empresarial, muchas organizaciones y sistemas _ERP_ y _CRM_ han optado por recurrir a **Python** como su lenguaje de programación base, en gran medida impulsados por sus ventajas _Open Source_. Plataformas tan populares como **Odoo** o **Tryton** son ejemplos representativos de la importante presencia del lenguaje en este ámbito.
 
 ## :wavy_dash: 4. **CLASIFICACIÓN**
-Python es un lenguaje de alto nivel, multiplataforma, open source e interpretado. Se trata de un lenguaje ¿multiparadigma?) que posibilita la programación imperativo+a, adaptable a los modelos PROCEDURAL y POO, en función de las necesidades del contexto, así como cierto grado de programación funcional. Su tipado es dinámico, posibilitando el cambio del tipo de datos almacenado en una variable, si bien, a su vez, posee un tipado fuerte, restringiendo las operaciones que se pueden realizar entre tipos.
+Python es un lenguaje de alto nivel, multiplataforma, de licencia _Open Source_ e interpretado. Su flexibilidad posibilita un abordaje **multiparadigma**, adaptándose, en el marco de la **programación imperativa**, a los modelos **procedural** y **orientado a objetos** _(POO)_, y pudiendo admitir, a mayores, cierto grado de **programación funcional** en función de las necesidades del contexto. A pesar de poseer un **tipado dinámico**, que admite el cambio del tipo de datos almacenado en una variable _(especificado en tiempo de ejecución)_, si bien, a su vez, presenta un **tipado fuerte**, restringiendo las operaciones que pueden ser realizadas entre tipos incompatibles _(impidiendo, por ejemplo, llevar a cabo operaciones matemáticas entre una cadena y un valor tipo numérico)_. 
+
 
 ## :wavy_dash: 5. **OTRAS CURIOSIDADES**
 - El nombre del lenguaje está inspirando en el programa de la _BBC_ **“Monty Python´s Flying Circus”**, del que Guido Van Rossum se consideraba un gran fan. [^]
 
-- Fue publicado 4 años antes que Java, aunque 
+- **Python** fue publicado Existe una falsa tendencia a considerar **Python** como un lenguaje relativamente Fue publicado 4 años antes que **Java**, aunque 
 - >REVISAR: En una encuesta realizada en 2015, superó en popularidad al Francés como lenguaje de preferencia para el aprendizaje.
 
-- Cuando el intérprete de **Python** recibe la instrucción `import antigravity`, se redirige al usuario a una página web en la que se reproduce un [pequeño fragmento de cómic](https://xkcd.com/353/) sobre el lenguaje, a modo de _easter egg_.
+- Cuando el intérprete de **Python** recibe la instrucción `import antigravity`, se redirige al usuario a una página web en la que se reproduce un [pequeño fragmento de cómic sobre el lenguaje](https://xkcd.com/353/), a modo de _easter egg_.
 - De igual, forma, puede leerse un poema escrito por _Tim Peters_, un gran contribuidor de la comunidad de **Python**, al realizar un `import this`.
-- Está considerado uno de los 9 lenguajes que influyeron en el desarrollo de **JavaScript**, junto a 
+- Está considerado uno de los 9 lenguajes que influyeron en el desarrollo de **JavaScript** [^https://exploringjs.com/js/book/ch_nature.html], concretamente, en lo referente a los _Generators_.
 
 >
 Añadir 2 o 3 más
