@@ -49,8 +49,6 @@ Python es un lenguaje de alto nivel, multiplataforma, de licencia _Open Source_ 
 - De igual, forma, puede leerse un poema escrito por _Tim Peters_, un gran contribuidor de la comunidad de **Python**, al realizar un `import this`.
 - Está considerado uno de los 9 lenguajes que influyeron en el desarrollo de **JavaScript** [^https://exploringjs.com/js/book/ch_nature.html], concretamente, en lo referente a los _Generators_.
 
->
-Añadir 2 o 3 más
 
 ## :wavy_dash: 6. **IDE’s**
 
